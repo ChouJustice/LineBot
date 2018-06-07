@@ -9,7 +9,7 @@ namespace LineBotTest.Controllers
 {
     public class LineBotWebHookController : isRock.LineBot.LineWebHookControllerBase
     {
-        const string channelAccessToken = "4UYSRQcGj2bGqO7FGYKxomPTA5r/wLY0yyZpbcWgi0XYhDne6mMIjg0fGJ7sptzPW8zcYJnZ+R3Ti7GKzQCIAbPTAvXpVS1QtiS2xTmnuYtlcYDlr0strqkQtBGYFyS0q+eR7ISMsWVY7LWVQOT6twdB04t89/1O/w1cDnyilFU=";
+        const string channelAccessToken = "KBiJiq5PXoHTky/p0FpEKVMG70yCTaq62LItF5z3nJFxoA7m7FOF/ZwPka0o0T0wW8zcYJnZ+R3Ti7GKzQCIAbPTAvXpVS1QtiS2xTmnuYu+aGuIVfGJxoDKpTzNo5pHjPV8i0Z3YD0vkEJp4saf1AdB04t89/1O/w1cDnyilFU=";
         const string AdminUserId= "U206f5da89ebc3fceca67fefc26521d1e";
 
         [Route("api/LineWebHookSample")]
